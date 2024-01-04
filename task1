@@ -21,9 +21,7 @@ public class task1 {
         {
            System.out.println("Number is too high"); 
         }
-        else if (n<num)) {
-            
-        }
+        else if (n<num)
         {
             System.out.println("Number is too low");
         }
